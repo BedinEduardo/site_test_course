@@ -1,6 +1,6 @@
 # E-Commerce X Company
 
-Build a e-commerce to X company . . . than then some
+Build a **e-commerce** to *X company* . . . than then some
 
 ## Funcionalities
 
