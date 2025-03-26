@@ -18,3 +18,8 @@ __Improve 1__, _improve 2..._
 * JavaScript
 * PHP
 * MySQL
+
+### Functionalities to Develop
+1. Members
+2. Payments
+3. 1st purchase bonus
