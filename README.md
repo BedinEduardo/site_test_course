@@ -1,5 +1,7 @@
-# site_test_course
-This is an example of GitHub configuration tests
-# BTest
+# E-Commerce X Company
 
-Adding some thing here
+Build a e-commerce to X company . . . than then some
+
+## Funcionalities
+
+Checkout, Product screen, Catalog, Banner Home 
