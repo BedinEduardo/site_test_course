@@ -10,3 +10,11 @@ _Checkout, **Product screen**, Catalog, Banner Home_
 ###### Improvement in Project
 
 __Improve 1__, _improve 2..._
+
+
+### Project Languages:
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
