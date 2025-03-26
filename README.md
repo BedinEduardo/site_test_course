@@ -4,9 +4,9 @@ Build a **e-commerce** to *X company* . . . than then some
 
 ## Funcionalities
 
-Checkout, Product screen, Catalog, Banner Home 
+_Checkout, **Product screen**, Catalog, Banner Home_
 
 
 ###### Improvement in Project
 
-Improve 1, improve 2...
+__Improve 1__, _improve 2..._
