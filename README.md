@@ -21,5 +21,8 @@ __Improve 1__, _improve 2..._
 
 ### Functionalities to Develop
 1. Members
+	1. login
 2. Payments
+	1. Credit card
+	2. Pix
 3. 1st purchase bonus
