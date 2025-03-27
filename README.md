@@ -53,7 +53,7 @@ function soma(a,b) {
 ``` 
 
 ## Task list 
-- [ x ] Member area
+- [x] Member area
 - [] Payment integration
 - [] Bonus system
-- [] footnote CSS
+- [x] footnote CSS
