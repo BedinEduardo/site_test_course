@@ -26,3 +26,7 @@ __Improve 1__, _improve 2..._
 	1. Credit card
 	2. Pix
 3. 1st purchase bonus
+
+#### Local Image 
+
+![FPGA](img/FPGA.jpg)
