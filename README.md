@@ -54,6 +54,6 @@ function soma(a,b) {
 
 ## Task list 
 - [x] Member area
-- [] Payment integration
-- [] Bonus system
+- [ ] Payment integration
+- [ ] Bonus system
 - [x] footnote CSS
