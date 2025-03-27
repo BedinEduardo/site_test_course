@@ -33,3 +33,7 @@ __Improve 1__, _improve 2..._
 
 #### Exteral Image
 ![Logo with link](https://www.ml4devs.com/images/illustrations/ml-lifecycle-model-development.webp)
+
+## Interessants links:
+
+[Google](https://www.google.com)
