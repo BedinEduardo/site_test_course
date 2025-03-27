@@ -30,3 +30,6 @@ __Improve 1__, _improve 2..._
 #### Local Image 
 
 ![FPGA](img/FPGA.jpg)
+
+#### Exteral Image
+![Logo with link](https://www.ml4devs.com/images/illustrations/ml-lifecycle-model-development.webp)
