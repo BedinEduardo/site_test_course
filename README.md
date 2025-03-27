@@ -42,3 +42,12 @@ __Improve 1__, _improve 2..._
 
 Profile: https://github.com/BedinEduardo
 [![Logo](https://files.aptuitivcdn.com/Pqnz49oyx5-1775/images/grasshopper-identification.jpg)](https://github.com/BedinEduardo)
+
+## Sun function code
+
+```Javascript
+function soma(a,b) {
+	return a + b;
+}
+
+``` 
